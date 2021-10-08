@@ -1,0 +1,31 @@
+{
+  "name": "dom-draggable",
+  "version": "0.1.0",
+  "description": "make dom element draggable",
+  "main": "index.js",
+  "scripts": {
+    "build": "node ./build/index.js",
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wahaha2012/dom-draggable.git"
+  },
+  "keywords": [
+    "dom",
+    "draggable"
+  ],
+  "author": "wxwdesign@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wahaha2012/dom-draggable/issues"
+  },
+  "homepage": "https://github.com/wahaha2012/dom-draggable#readme",
+  "devDependencies": {
+    "@rollup/plugin-buble": "^0.21.3",
+    "@rollup/plugin-node-resolve": "^13.0.5",
+    "fs-extra": "^10.0.0",
+    "glob": "^7.2.0",
+    "rollup": "^2.57.0"
+  }
+}
