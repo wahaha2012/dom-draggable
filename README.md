@@ -47,3 +47,7 @@ options = {
   
 }
 ```
+
+## Related Projects
++ https://github.com/taye/interact.js
++ https://github.com/Shopify/draggable
